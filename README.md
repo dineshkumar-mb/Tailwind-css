@@ -1,5 +1,5 @@
 Here’s a simple README.md file with instructions for setting up Tailwind CSS using three different methods: Tailwind CLI, PostCSS, and Play CDN.
-
+https://tailwindcss.com/docs/installation
 
 # Tailwind CSS Setup Guide
 
