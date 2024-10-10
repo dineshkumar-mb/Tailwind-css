@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .click-btn  {
+        @apply bg-jvlcode-orange sm:bg-blue-500 md:bg-green-500 lg:bg-yellow-500 font-jvlbold rounded p-4 border-2 border-black 
+    }
+}
